@@ -28,3 +28,6 @@ buy: 0 or 1 indicating if the user will buy the product in next 3 months or not 
 
 
 Task at hand : To predict the customer's propensity to buy a product based on the user's past activities and user level information.
+
+References: <br/>
+Visit: https://www.kaggle.com/code/muskanchughds/smart-lead-scoring-engine
